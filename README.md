@@ -110,13 +110,3 @@ Distributed under the MIT License. See LICENSE for more information.
 Dikshit Mahanot - @dikjain - dikshitmahanot2005@gmail.com
 
 Project Link: https://github.com/dikjain/instaAssignment-frontend
-
-This version includes:
-1. Better badge styling
-2. Clearer section organization
-3. API endpoint documentation
-4. Code examples for Zustand store
-5. Pro tips section
-6. More detailed contribution guidelines
-7. Responsive formatting for GitHub markdown
-8. Clear environment variable examples
